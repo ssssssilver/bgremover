@@ -1,0 +1,5 @@
+name: RemoveBG Mini
+preview Byron Parent
+
+production:
+  - ./dist
